@@ -2,22 +2,8 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 1,
-   "id": "b1759000-c9eb-4317-8c52-3c173c41ed49",
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "import pandas as pd\n",
-    "from sklearn.metrics import precision_score, accuracy_score, recall_score\n",
-    "from sklearn.model_selection import train_test_split\n",
-    "from sklearn.neighbors import KNeighborsClassifier\n",
-    "from sklearn.preprocessing import StandardScaler"
-   ]
-  },
-  {
-   "cell_type": "code",
    "execution_count": null,
-   "id": "5e22f1c0-6cfe-480a-a23a-749badcae721",
+   "id": "728e7099-dcd1-4084-b1f7-b99582004a62",
    "metadata": {},
    "outputs": [],
    "source": []
